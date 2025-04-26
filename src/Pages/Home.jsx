@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import Navbar from '../components/Navbar'; // Adjust import path as needed
+import Navbar from '../Components/Navbar'; // Adjust import path as needed
 import HomeImage from '../assets/homeImage.webp'
 
 
